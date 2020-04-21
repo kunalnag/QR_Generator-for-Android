@@ -1,0 +1,2 @@
+rootProject.name='My QR Player'
+include ':app'

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My QR Player</string>
+    <string name="todo">TODO</string>
+    <string name="enter_text">Enter Text</string>
+</resources>
